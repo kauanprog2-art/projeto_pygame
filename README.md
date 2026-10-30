@@ -59,10 +59,6 @@ O projeto utiliza Python e a biblioteca Pygame para criar a janela do jogo, dese
 
 ### 1. Instale o Python
 
-Baixe e instale o Python pelo site oficial:
-
-https://www.python.org/downloads/
-
 ### 2. Instale o Pygame
 
 Abra o terminal e execute:
